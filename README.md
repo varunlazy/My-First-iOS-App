@@ -2,7 +2,7 @@
 
 A polished offline-first iOS example rebuilt from your original `Untitled Project` Xcode starter.
 
-<img src="WhatsApp Image 2026-10-13 at 03.53.04.jpeg" width="280" alt="Dashboard">
+<img src="WhatsApp Image 2026-10-13 at 03.53.04.jpeg" width="500" alt="Dashboard">
 
 ## Get started (Mac required)
 
