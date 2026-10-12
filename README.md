@@ -65,3 +65,4 @@ A polished offline-first iOS example rebuilt from your original `Untitled Projec
 - `Untitled Project/ProfileView.swift` — settings, reset and logout.
 
 This is a functional, test-oriented **native iOS prototype**, not a production authentication service.
+# My-First-iOS-App
